@@ -10,7 +10,7 @@ addons:
     packages:
     - g++-4.8
   code_climate:
-    repo_token: ee89006a93cf5ebec99588fcdeb22663c562faaac90c38fd397f42d25a0124b3
+    repo_token: 8c369d85a87b40230848cc907ea60c1e375333cc09b09c90f521c123c3e51c76
 before_script:
 - npm install -g codeclimate-test-reporter
 after_script:
