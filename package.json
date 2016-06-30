@@ -1,6 +1,6 @@
 {
   "name": "meshblu-core-task-remove-device-cache",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Meshblu Core Remove Device Cache",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "meshblu"
   ],
   "dependencies": {
-    "meshblu-core-manager-device": "^2.4.8"
+    "meshblu-core-manager-device": "^2.5.0"
   },
   "devDependencies": {
     "chai": "^3.4.0",
